@@ -3,7 +3,10 @@
 
 WHAT IS CMDHERE ?
 
-cmdHere is a program that will help you to open a cmd in the actual folder location, so instead of open a cmd, copy the path of your folder, and type "cd : (THE PATH)" all will be done by cmdHere ! And it's easy to access it because I'll explain to you how to add it in the context menu (the menu when you right click) of windows.
+  cmdHere is a program that will help you to open a cmd in the actual folder location, so instead of open a cmd, copy the path of your folder, and type "cd :     (THE PATH)" all will be done by cmdHere ! And it's easy to access it because I'll explain to you how to add it in the context menu (the menu when you right     click) of windows.
+
+
+
 
 
 HOW TO ADD THIS FILE IN THE CONTEXT MENU ?
@@ -21,3 +24,8 @@ HOW TO ADD THIS FILE IN THE CONTEXT MENU ?
   6. Now right click the new folder and add a key named "command" (you have to name it like that)
 
   7. Double right click on "(Default)" and enter the path of the .EXE file in the "value data" input box
+
+
+
+IF YOU HAVE ANY TROUBLE :
+  Contact this email : vinconscientpro@gmail.com
